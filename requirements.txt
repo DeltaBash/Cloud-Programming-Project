@@ -1,7 +1,7 @@
 asgiref==3.8.1
 astroid==2.15.5
 attrs==20.3.0
-aws-cfn-bootstrap==2.0
+#aws-cfn-bootstrap==2.0
 awscli==2.14.5
 awscrt==0.19.19
 Babel==2.9.1
@@ -52,7 +52,6 @@ mdurl==0.1.2
 mercurial==5.7.1
 more-itertools==10.2.0
 netifaces==0.10.6
-news_lib @ file:///home/ec2-user/environment/newsproj/content/news_lib/dist/news_lib-0.0.1-py3-none-any.whl#sha256=4530dcd5264133c5ccee64a53623f817dd9f81b3a137713bb0266e2a6063627c
 nh3==0.2.17
 oauthlib==3.0.2
 packaging==21.3
