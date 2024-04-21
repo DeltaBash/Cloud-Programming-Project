@@ -25,7 +25,7 @@ docutils==0.16
 #ec2-hibinit-agent==1.0.8
 Flask==3.0.3
 git-remote-codecommit==1.17
-gpg==1.15.1
+#gpg==1.15.1
 idna==2.10
 ikp3db==1.4.2
 importlib_metadata==7.1.0
